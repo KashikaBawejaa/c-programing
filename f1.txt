@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello
+=======
+i love programming
+>>>>>>> 43076c998af4ce3e9cc7e89dafe4a892b18a33c5
